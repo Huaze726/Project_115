@@ -1,0 +1,35 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: lightblue;
+}
+
+.header_div {
+    background-color: mediumseagreen;
+    color: white;
+}
+
+.header_div p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.footer {
+    position: fixed;
+    color: white;
+    background-color: darkcyan;
+    width: 100%;
+    bottom: 0;
+    font-size: 20px;
+    line-height: 3;
+    text-align: center;
+}
